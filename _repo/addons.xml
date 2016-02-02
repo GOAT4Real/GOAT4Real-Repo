@@ -39,9 +39,9 @@
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2016.01.12"
+  version="2016.02.01"
   name="SportsDevil"
-  provider-name="MaxMustermann">
+  provider-name="SportsDevil">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.requests" />
@@ -60,14 +60,14 @@
   </extension>
 </addon>
 
-    <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.1.0" provider-name="GOAT4Real">
+    <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.2.0" provider-name="GOAT4Real">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="GOAT4Real Repository">
-            <info compressed="false">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/_repo/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
