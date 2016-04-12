@@ -1,45 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.genesis" name="Genesis" version="2016.03.10" provider-name="lambda">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.requests" version="1.0.0" />
-		<import addon="script.module.metahandler" optional="true" />
-		<import addon="plugin.video.youtube" optional="true" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">The origins of streaming</summary>
-		<description lang="en">Visit TVADDONS.ag for support</description>
-		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/</source>
-		<website>https://offshoregit.com/lambda81/</website>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.nbanhlstreams" name="NBA and NHL Live Streams" version="0.7" provider-name="gerikss">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>NBA and NHL Live Streams</summary>
-    <description>Live HD streams from www.nbastream.net and www.nhlstream.net</description>
-    <platform>all</platform>
-    <language>en</language>
-  </extension>
-</addon>
-
 <addon
   id="plugin.video.SportsDevil"
-  version="2016.03.23"
+  version="2016.04.12"
   name="SportsDevil"
   provider-name="SportsDevil">
   <requires>
