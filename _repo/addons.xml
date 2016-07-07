@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.cbckids"
-       name="CBC Kids & Sports"
-       version="2016.07.07"
+<addon id="plugin.video.cbc"
+       name="Canadian Broadcasting Corp (CBC)"
+       version="3.0.2.1"
        provider-name="t1m">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
@@ -13,8 +13,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">CBC Kids & Sports</summary>
-    <description lang="en">CBC Videos - Kid Shows & Sports Updates (OLYMPICS!)</description>
+    <summary lang="en">Canadian Broadcasting Corp (CBC)</summary>
+    <description lang="en">CBC Videos - only for use in Canada. CBC.ca is Canada's Online Information Source. Comprehensive web site for news, entertainment, sports, and business.</description>
     <disclaimer lang="en">Feel free to use this script. For information visit the wiki.</disclaimer>
     <platform>all</platform>
     <language>en</language>
