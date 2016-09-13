@@ -57,6 +57,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.prosport" name="Pro Sport" version="0.50e" provider-name="gerikss, podgod, iCanuck">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+     <import addon="script.module.requests" version="2.9.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Live HD sport streams from reddit</summary>
+    <description>Live HD sport streams from reddit</description>
+    <platform>all</platform>
+    <language>en</language>
+  </extension>
+</addon>
+
     <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.2.0" provider-name="GOAT4Real">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
