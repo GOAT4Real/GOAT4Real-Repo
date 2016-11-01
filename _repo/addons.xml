@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.cbc"
-       name="Canadian Broadcasting Corp (CBC)"
-       version="3.0.2.1"
-       provider-name="t1m">
-  <requires>
-    <import addon="xbmc.python" version="2.20.0"/>
-    <import addon="script.module.t1mlib" version="1.0.14"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Canadian Broadcasting Corp (CBC)</summary>
-    <description lang="en">CBC Videos - only for use in Canada. CBC.ca is Canada's Online Information Source. Comprehensive web site for news, entertainment, sports, and business.</description>
-    <disclaimer lang="en">Feel free to use this script. For information visit the wiki.</disclaimer>
-    <platform>all</platform>
-    <language>en</language>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum></forum>
-    <website>http://www.cbc.ca/player/</website>
-    <email></email>
-    <source>https://github.com/learningit/plugin.video.cbc</source>
-  </extension>
-</addon>
-
-<addon id="plugin.video.exodus" version="2.0.12.1" name="Exodus" provider-name="Exodus">
+<addon id="plugin.video.exodus" version="2.0.17.0" name="Exodus" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="repository.exodus" version="1.0.0" />
@@ -42,7 +16,7 @@
 		<description lang="en">Please visit www.tvaddons.ag for Exodus support and assistance! Kindly note that Exodus is not an official part of the media player you are running, and therefore not to be mentioned within official support channels, this addon has nothing to do with the media player itself, nor it’s intended use, it is simply a third party plugin which has been added to your system.</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<platform>all</platform>
-		<news>- Fixed issue with Trakt Progress (hidden items)[CR]- Fixed issue with urlresolver's openload pair dialog[CR]- Tweaked search and caching of providers[CR]- Updated providers</news>
+		<news>- Tweaked metadata</news>
 	</extension>
 </addon>
 
@@ -117,22 +91,6 @@
     <summary lang="en">Free Canadaian IPTV</summary>
     <description lang="en">Follow @TheKrazy0ne on Twitter to report any channel issues...</description>
     <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.prosport" name="Pro Sport" version="0.55" provider-name="gerikss, podgod, iCanuck">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-     <import addon="script.module.requests" version="2.9.1" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Live HD sport streams from reddit</summary>
-    <description>Live HD sport streams from reddit</description>
-    <platform>all</platform>
-    <language>en</language>
   </extension>
 </addon>
 
