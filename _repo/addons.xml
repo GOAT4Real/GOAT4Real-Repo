@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.kisscartoon"
        name="KissCartoon"
-       version="0.9.16"
+       version="0.9.18"
        provider-name="The[COLOR tan]Highway[/COLOR], Marquerite, konbon">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
@@ -51,7 +51,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.meta" name="Meta" version="1.1.5.1" provider-name="MetaTeam">
+<addon id="plugin.video.meta" name="Meta" version="1.1.6.0" provider-name="MetaTeam">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
     <import addon="script.module.requests"/>
