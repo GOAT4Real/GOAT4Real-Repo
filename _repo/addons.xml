@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.meta" name="Meta" version="1.1.6.1" provider-name="MetaTeam">
+﻿<addon id="plugin.video.exodus" version="3.1.22.G" name="Exodus" provider-name="Exodus">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.exodus.artwork" version="1.0.5" />
+		<import addon="script.exodus.metadata" version="1.0.0" />
+		<import addon="script.module.urlresolver" version="3.0.33" />
+		<import addon="script.module.metahandler" version="2.9.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="exodus.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Exodus</summary>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<news>Last Version Made From The TVA Guys, If anything changes will be listed here, this version should fix install errors</news>
+	</extension>
+</addon>
+
+<addon id="plugin.video.meta" name="Meta" version="G1.1.7" provider-name="MetaTeam">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
     <import addon="script.module.requests"/>
@@ -41,6 +63,28 @@
       <content>episodes</content>
     </supportedcontent>
   </extension>
+</addon>
+
+<addon id="plugin.video.salts" version="2.0.197.G" name="Stream All The Sources" provider-name="k3l3vra">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+        <import addon="script.module.urlresolver" version="3.0.0"/>
+        <import addon="script.module.myconnpy" version="1.1.6" />
+        <import addon="script.module.tknorris.shared" version="0.0.19"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.dateutil"/>
+        <import addon="script.module.image_cache" version="0.0.1" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+     <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Last Version Made From The TVA Guys</summary>
+        <description>Last Version Made From The TVA Guys, trying to fix the install fail probs some are getting
+        </description>
+        <platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="plugin.video.telequebec"
