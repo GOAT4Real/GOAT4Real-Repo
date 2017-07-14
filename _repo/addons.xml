@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.cartoons8" name="Cartoons8" version="1.0.34" provider-name="MetalKettle">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.urlresolver"  version="0.0.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"></summary>
-    <description lang="en"></description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-﻿<addon id="plugin.video.exodus" version="3.1.22.G" name="Exodus" provider-name="Exodus">
+<addon id="plugin.video.covenant" version="1.1.0" name="Covenant" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.exodus.artwork" version="1.0.5" />
-		<import addon="script.exodus.metadata" version="1.0.0" />
-		<import addon="script.module.urlresolver" version="3.0.33" />
-		<import addon="script.module.metahandler" version="2.9.0" />
+		<import addon="script.module.urlresolver" version="3.0.0" />
+		<import addon="script.module.metahandler" version="1.0.0" />
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="exodus.py">
+	<extension point="xbmc.python.pluginsource" library="covenant.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.service" library="service.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Exodus</summary>
+		<summary lang="en">Covenant</summary>
+		<description lang="en">[I]A New Generation[/I][CR][CR][B]Covenant Movies and TV[/B][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.</description>
 		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<forum></forum>
 		<website></website>
 		<source></source>
-		<news>Last Version Made From The TVA Guys, If anything changes will be listed here, this version should fix install errors</news>
+		<disclaimer lang="en">The authors of this addon do not host any of the content which is found and have no affiliation with any of the content providers. Use at your own risk!</disclaimer>
+
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+    			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+    			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+    			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>[B]1.1.0[/B][CR]- Official release[CR]- Fix trakt support[CR]- Updated existing providers[CR]- Added new providers[CR]- Artwork changes[CR]- Minor improvements</news>
 	</extension>
 </addon>
 
@@ -78,73 +72,6 @@
       <content>episodes</content>
     </supportedcontent>
   </extension>
-</addon>
-
-<addon id="plugin.video.salts" version="2.0.197.G" name="Stream All The Sources" provider-name="k3l3vra">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0"/>
-        <import addon="script.module.urlresolver" version="3.0.0"/>
-        <import addon="script.module.myconnpy" version="1.1.6" />
-        <import addon="script.module.tknorris.shared" version="0.0.19"/>
-        <import addon="script.module.six"/>
-        <import addon="script.module.dateutil"/>
-        <import addon="script.module.image_cache" version="0.0.1" optional="true"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-     <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary>Last Version Made From The TVA Guys</summary>
-        <description>Last Version Made From The TVA Guys, trying to fix the install fail probs some are getting
-        </description>
-        <platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.1.0"
-       provider-name="CB"
->
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="xbmc.json" version="6.0.0"/>
-        <import addon="xbmc.addon" version="12.0.0"/>
-        <import addon="script.module.simplejson" version="2.0.10"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary>Plugin for the Télé-Québec.TV site</summary>
-	    <summary lang="fr">Addiciel vidéo donnant accès à la zone vidéo de TéléQuébec.TV</summary>
-        <description>Play all videos from Télé-Québec.TV site. Most videos can only be accessed in Canada.</description>
-	    <description lang="fr">Cet addiciel permet d'accèder à la zone vidéo de TéléQuébec.TV.  La plupart des vidéos ne sont accessibles qu'au Canada.</description>
-    </extension>
-</addon>
-
-<addon id="repository.exodus" name="Exodus repository" version="3.0.0" provider-name="Exodus">
-	<extension point="xbmc.addon.repository" name="Exodus repository">
-	<dir>
-        <info compressed="false">https://github.com/lewblack125/tva-common/raw/master/addons.xml</info>
-        <checksum>https://github.com/lewblack125/tva-common/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/lewblack125/tva-common/raw/master/zips/</datadir>
-	</dir>
-    <dir>
-		<info compressed="false">https://github.com/lewblack125/daisy_tulip/raw/master/addons.xml</info>
-		<checksum>https://github.com/lewblack125/daisy_tulip/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/lewblack125/daisy_tulip/raw/master/zips/</datadir>
-    </dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Exodus repository</summary>
-		<description lang="en">Exodus repository</description>
-		<platform>all</platform>
-		<forum>https://www.tvaddons.ag/forums</forum>
-        <website>https://www.tvaddons.ag</website>
-	</extension>
 </addon>
 
     <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.2.0" provider-name="GOAT4Real">
