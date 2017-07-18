@@ -1,36 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.covenant" version="1.1.0" name="Covenant" provider-name="Covenant">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.urlresolver" version="3.0.0" />
-		<import addon="script.module.metahandler" version="1.0.0" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="covenant.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Covenant</summary>
-		<description lang="en">[I]A New Generation[/I][CR][CR][B]Covenant Movies and TV[/B][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.</description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<forum></forum>
-		<website></website>
-		<source></source>
-		<disclaimer lang="en">The authors of this addon do not host any of the content which is found and have no affiliation with any of the content providers. Use at your own risk!</disclaimer>
-
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-    			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
-    			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
-    			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
-		</assets>
-		<news>[B]1.1.0[/B][CR]- Official release[CR]- Fix trakt support[CR]- Updated existing providers[CR]- Added new providers[CR]- Artwork changes[CR]- Minor improvements</news>
-	</extension>
-</addon>
-
 <addon id="plugin.video.meta" name="Meta" version="G1.1.7" provider-name="MetaTeam">
   <requires>
     <import addon="xbmc.python" version="2.20.0"/>
@@ -72,6 +41,24 @@
       <content>episodes</content>
     </supportedcontent>
   </extension>
+</addon>
+
+<addon id="repository.colossus" name="[COLOR gold]Colossus Repository[/COLOR]" version="999.999.6" provider-name="Colossal">
+    <extension point="xbmc.addon.repository" name="[COLOR gold]Colossus Repository[/COLOR]">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/</datadir>
+    </dir>
+        <info compressed="false">https://raw.githubusercontent.com/Colossal1/repository.colossus/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Colossal1/repository.colossus/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Colossal1/repository.colossus/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Home Of 3rd Party Addons</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
 </addon>
 
     <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.2.0" provider-name="GOAT4Real">
