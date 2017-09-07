@@ -2,8 +2,8 @@
 <addons>
 <addon id="plugin.audio.mp3streams"
        name="MP3 Streams"
-       version="1.2.4G3"
-       provider-name="kinkin, art by Marquerite">
+       version="2017.09.07"
+       provider-name="qahanik, kinkin, art by Marquerite">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.t0mm0.common" version="1.1.0"/>
