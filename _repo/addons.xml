@@ -149,7 +149,7 @@
 
 <addon id="script.tvtime"
        name="TV Time"
-       version="1.2.0"
+       version="1.2.0G"
        provider-name="CXII">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
@@ -264,7 +264,7 @@
   </extension>
 </addon>
 
-<addon id="video.lazyman.nhl.tv" name="LazyMan NHL.tv" version="1.0.7G3" provider-name="lazyman">
+<addon id="video.lazyman.nhl.tv" name="LazyMan NHL.tv" version="1.1.1G" provider-name="lazyman">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
     <!--<import addon="script.module.pytz" version="2014.2"/>-->
