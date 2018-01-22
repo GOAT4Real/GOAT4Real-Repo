@@ -23,7 +23,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.chilly" version="0.1.9" name="chilly" provider-name="chilly">
+<addon id="plugin.video.chilly" version="0.2.0" name="chilly" provider-name="chilly">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.chilly" />
@@ -211,7 +211,7 @@
     </extension>
 </addon>
 
-<addon id="script.chilly.artwork" version="1.0.7" name="chilly Artwork" provider-name="chilly">
+<addon id="script.chilly.artwork" version="1.0.8" name="chilly Artwork" provider-name="chilly">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -223,7 +223,7 @@
 	</extension>
 </addon>
 
-<addon id="script.chilly.metadata" version="1.0.3" name="chilly Metadata" provider-name="chilly">
+<addon id="script.chilly.metadata" version="1.0.4" name="chilly Metadata" provider-name="chilly">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -235,7 +235,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.chilly" name="chilly Module" version="1.09" provider-name="chilly">
+<addon id="script.module.chilly" name="chilly Module" version="1.10" provider-name="chilly">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
