@@ -235,7 +235,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.chilly" name="chilly Module" version="1.10" provider-name="chilly">
+<addon id="script.module.chilly" name="chilly Module" version="1.11" provider-name="chilly">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
