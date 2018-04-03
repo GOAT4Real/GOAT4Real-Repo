@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.1.0" provider-name="GOAT4Real">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="GOAT4Real Repository">
+            <info compressed="false">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>GOAT4Real Repo</summary>
+            <description>Modified Addons</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="script.module.chilly" name="chilly Module" version="1.13" provider-name="chilly">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.beautifulsoup4"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">chilly</summary>
+	</extension>
+</addon>
+</addons>
