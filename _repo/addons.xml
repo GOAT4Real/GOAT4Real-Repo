@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.incursion" version="0.1.17G" name="Incursion" provider-name="Incursion">
+<addon id="plugin.video.incursion" version="0.1.17G2" name="Incursion" provider-name="Incursion">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.incursion" />
@@ -42,7 +42,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.1.0" provider-name="GOAT4Real">
+    <addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.1.0" provider-name="GOAT4Real">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -59,6 +59,20 @@ Fixed search issue caused by character accents
     </extension>
 </addon>
 
+<addon id="repository.lambdascrapers" name="Lambdascrapers Repo" version="0.0.3" provider-name="I-A-C">
+	<extension point="xbmc.addon.repository" name="Lambdascrapers Repo">
+		<info compressed="false">https://raw.githubusercontent.com/I-A-C/LambdaScrapersRepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/I-A-C/LambdaScrapersRepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/I-A-C/LambdaScrapersRepo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Lambdascrapers</summary>
+		<description>Lambdascrapers</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="script.module.incursion" name="Incursion Module" version="1.20G" provider-name="Incursion">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -71,7 +85,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.2.0" provider-name="IAC">
+<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.3.0" provider-name="IAC">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -86,5 +100,4 @@ Fixed search issue caused by character accents
         <license>Beerware rev. 42</license>
 	</extension>
 </addon>
-
 </addons>
