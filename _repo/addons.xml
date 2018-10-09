@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.incursion" version="0.1.17G2" name="Incursion" provider-name="Incursion">
+<addon id="plugin.video.incursion" version="0.1.17G3" name="Incursion" provider-name="Incursion">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.incursion" />
@@ -101,7 +101,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="script.module.incursion" name="Incursion Module" version="1.20G" provider-name="Incursion">
+<addon id="script.module.incursion" name="Incursion Module" version="1.20G2" provider-name="Incursion">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
