@@ -119,7 +119,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.5.4G" provider-name="I-A-C">
+<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.8.2.1" provider-name="Sergio49650">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -128,6 +128,7 @@ Fixed search issue caused by character accents
 	<extension point="xbmc.python.pluginsource" library="lib/default.py">
 		<provides>executable</provides>
 	</extension>
+	<!--<extension point="xbmc.service" library="CleanupService.py" start="startup" />-->
 		<extension point="xbmc.addon.metadata">
 			<platform>all</platform>
 			<summary lang="en">Lambdascrapers Module</summary>
