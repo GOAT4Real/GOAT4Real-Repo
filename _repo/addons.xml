@@ -62,7 +62,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.2.0" provider-name="GOAT4Real">
+<addon id="repository.GOAT4Real" name="GOAT4Real Repository" version="0.3.0" provider-name="GOAT4Real">
     <extension point="xbmc.addon.repository" name="GOAT4Real Repository">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/GOAT4Real/GOAT4Real-Repo/master/_repo/addons.xml</info>
@@ -108,7 +108,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.8.2.1G" provider-name="Sergio49650">
+<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.8.2.1G2" provider-name="Sergio49650">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
