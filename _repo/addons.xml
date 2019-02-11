@@ -108,7 +108,7 @@ Fixed search issue caused by character accents
 	</extension>
 </addon>
 
-<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.8.2.9G3" provider-name="13Clowns">
+<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="1.8.2.9G4" provider-name="13Clowns">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.beautifulsoup4"/>
