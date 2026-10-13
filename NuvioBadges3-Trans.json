@@ -1204,10 +1204,10 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/encoder/av1.png?rev=2cca635c8d96",
-      "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -1217,10 +1217,10 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/encoder/hevc.png?rev=4433ade5c89a",
-      "tagColor": "#000000",
-      "borderColor": "#176BE8",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -1230,10 +1230,10 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‍‌‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/encoder/avc.png?rev=b53e3520e8ac",
-      "tagColor": "#000000",
-      "borderColor": "#2EB853",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -1243,10 +1243,10 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‍‌‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/encoder/xvid.png?rev=940b12613f14",
-      "tagColor": "#000000",
-      "borderColor": "#FF7300",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -1256,10 +1256,10 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‍‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/encoder/divx.png?rev=b238b1cbe026",
-      "tagColor": "#000000",
-      "borderColor": "#E64141",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -1269,11 +1269,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/english.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_japanese",
@@ -1282,11 +1282,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/japanese.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_chinese",
@@ -1295,11 +1295,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/chinese.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_russian",
@@ -1308,11 +1308,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/russian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_arabic",
@@ -1321,11 +1321,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/arabic.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_portuguese",
@@ -1334,11 +1334,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/portuguese.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_portuguese_brazil",
@@ -1347,11 +1347,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/portuguese-brazil.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_spanish",
@@ -1360,11 +1360,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/spanish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_french",
@@ -1373,11 +1373,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/french.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_german",
@@ -1386,11 +1386,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/german.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_italian",
@@ -1399,11 +1399,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/italian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_korean",
@@ -1412,11 +1412,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/korean.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_hindi",
@@ -1425,11 +1425,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/hindi.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_bengali",
@@ -1438,11 +1438,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/bengali.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_punjabi",
@@ -1451,11 +1451,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/punjabi.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_marathi",
@@ -1464,11 +1464,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/marathi.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_gujarati",
@@ -1477,11 +1477,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/gujarati.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_tamil",
@@ -1490,11 +1490,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/tamil.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_telugu",
@@ -1503,11 +1503,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/telugu.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_kannada",
@@ -1516,11 +1516,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/kannada.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_malayalam",
@@ -1529,11 +1529,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/malayalam.png?v=flagfix-20260802",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_thai",
@@ -1542,11 +1542,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/thai.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_vietnamese",
@@ -1555,11 +1555,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/vietnamese.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_indonesian",
@@ -1568,11 +1568,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/indonesian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_turkish",
@@ -1581,11 +1581,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/turkish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_hebrew",
@@ -1594,11 +1594,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/hebrew.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_persian",
@@ -1607,11 +1607,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/persian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_ukrainian",
@@ -1620,11 +1620,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/ukrainian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_greek",
@@ -1633,11 +1633,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/greek.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_lithuanian",
@@ -1646,11 +1646,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/lithuanian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_latvian",
@@ -1659,11 +1659,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/latvian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_estonian",
@@ -1672,11 +1672,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/estonian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_polish",
@@ -1685,11 +1685,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/polish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_czech",
@@ -1698,11 +1698,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/czech.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_slovak",
@@ -1711,11 +1711,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/slovak.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_hungarian",
@@ -1724,11 +1724,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/hungarian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_romanian",
@@ -1737,11 +1737,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/romanian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_bulgarian",
@@ -1750,11 +1750,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/bulgarian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_serbian",
@@ -1763,11 +1763,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/serbian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_croatian",
@@ -1776,11 +1776,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/croatian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_slovenian",
@@ -1789,11 +1789,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/slovenian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_dutch",
@@ -1802,11 +1802,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/dutch.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_danish",
@@ -1815,11 +1815,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/danish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_finnish",
@@ -1828,11 +1828,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/finnish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_swedish",
@@ -1841,11 +1841,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‌‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/swedish.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_norwegian",
@@ -1854,11 +1854,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/norwegian.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_malay",
@@ -1867,11 +1867,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢⁠‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/malay.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "lang_latino",
@@ -1880,11 +1880,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁢‍‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/language/latino.png",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_english",
@@ -1893,11 +1893,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/english.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_japanese",
@@ -1906,11 +1906,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/japanese.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_chinese",
@@ -1919,11 +1919,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/chinese.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_russian",
@@ -1932,11 +1932,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‍‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/russian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_arabic",
@@ -1945,11 +1945,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/arabic.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_portuguese",
@@ -1958,11 +1958,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/portuguese.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_portuguese_brazil",
@@ -1971,11 +1971,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/portuguese-brazil.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_spanish",
@@ -1984,11 +1984,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠⁠‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/spanish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_french",
@@ -1997,11 +1997,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/french.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_german",
@@ -2010,11 +2010,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/german.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_italian",
@@ -2023,11 +2023,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/italian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_korean",
@@ -2036,11 +2036,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/korean.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_hindi",
@@ -2049,11 +2049,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/hindi.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_bengali",
@@ -2062,11 +2062,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‍‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/bengali.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_punjabi",
@@ -2075,11 +2075,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/punjabi.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_marathi",
@@ -2088,11 +2088,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/marathi.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_gujarati",
@@ -2101,11 +2101,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠⁠‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/gujarati.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_tamil",
@@ -2114,11 +2114,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/tamil.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_telugu",
@@ -2127,11 +2127,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/telugu.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_kannada",
@@ -2140,11 +2140,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/kannada.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_malayalam",
@@ -2153,11 +2153,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/malayalam.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_thai",
@@ -2166,11 +2166,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/thai.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_vietnamese",
@@ -2179,11 +2179,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‍⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/vietnamese.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_indonesian",
@@ -2192,11 +2192,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/indonesian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_turkish",
@@ -2205,11 +2205,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/turkish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_hebrew",
@@ -2218,11 +2218,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠⁠⁠‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/hebrew.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_persian",
@@ -2231,11 +2231,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/persian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_ukrainian",
@@ -2244,11 +2244,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/ukrainian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_greek",
@@ -2257,11 +2257,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/greek.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_lithuanian",
@@ -2270,11 +2270,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/lithuanian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_latvian",
@@ -2283,11 +2283,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/latvian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_estonian",
@@ -2296,11 +2296,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‍‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/estonian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_polish",
@@ -2309,11 +2309,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/polish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_czech",
@@ -2322,11 +2322,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/czech.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_slovak",
@@ -2335,11 +2335,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠⁠‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/slovak.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_hungarian",
@@ -2348,11 +2348,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/hungarian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_romanian",
@@ -2361,11 +2361,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/romanian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_bulgarian",
@@ -2374,11 +2374,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/bulgarian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_serbian",
@@ -2387,11 +2387,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/serbian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_croatian",
@@ -2400,11 +2400,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/croatian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_slovenian",
@@ -2413,11 +2413,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‍‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/slovenian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_dutch",
@@ -2426,11 +2426,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/dutch.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_danish",
@@ -2439,11 +2439,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/danish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_finnish",
@@ -2452,11 +2452,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠⁠‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/finnish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_swedish",
@@ -2465,11 +2465,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‌‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/swedish.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_norwegian",
@@ -2478,11 +2478,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/norwegian.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_malay",
@@ -2491,11 +2491,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡⁠‌⁠‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/malay.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     },
     {
       "id": "sub_latino",
@@ -2504,11 +2504,11 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣⁡‍‌‌‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/subtitle/latino.png?rev=2ecef6d",
-      "type": "filter",
-      "tagColor": "#000000",
-      "borderColor": "#BBDEFB",
+      "tagColor": "#00000000",
+      "borderColor": "rgba(0,0,0,0)",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered"
+      "tagStyle": "filled",
+      "type": "filter"
     }
   ]
 }
